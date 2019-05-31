@@ -1,12 +1,12 @@
-# Next.js example
+# Next.js boilerplate
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui-org/material-ui):
+Download the example [or clone the repo](https://github.com/linuxer41/next.js-react.js-material-iu-boilerplate.git):
 
 ```sh
-curl https://codeload.github.com/mui-org/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
-cd nextjs
+curl https://github.com/linuxer41/next.js-react.js-material-iu-boilerplate.git nextapp
+cd nextapp
 ```
 
 Install it and run:
