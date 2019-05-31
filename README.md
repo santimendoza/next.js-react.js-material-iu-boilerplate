@@ -15,8 +15,14 @@ Install it and run:
 npm install
 npm run dev
 ```
+export to static page:
+
+```sh
+npm run build
+npm run export
+```
 
 ## The idea behind the example
 
-[Next.js](https://github.com/zeit/next.js) is a framework for server-rendered React apps.
+[Next.js](https://github.com/zeit/next.js) is a framework for server-rendered React apps. (with the latest version you can also export to a static page).
 [Hooks](https://reactjs.org/docs/hooks-state.html) are an upcoming feature of React.
