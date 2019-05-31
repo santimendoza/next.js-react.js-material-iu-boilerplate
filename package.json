@@ -1,0 +1,32 @@
+{
+  "name": "khychi",
+  "version": ".0.0",
+  "license" : "MIT",
+  "keywords": ["react.js", "next.js", "django"],
+  "author": "FRancisco Ochoa Gonzales",
+  "bugs": {
+    "url": "https://github.com/linuxe41/blog/issues"
+  },
+  "homepage": "https:localhost:",
+  "dependencies": {
+    "@material-ui/core": "^4.0.1",
+    "@material-ui/icons": "^4.0.1",
+    "@material-ui/styles": "^4.0.1",
+    "axios": "^0.18.0",
+    "clsx": "^1.0.4",
+    "dotenv": "^8.0.0",
+    "next": "^8.1.0",
+    "next-nprogress": "^1.4.0",
+    "next-seo": "^1.11.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "dev": "next",
+    "server": "node index.js",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  }
+}
