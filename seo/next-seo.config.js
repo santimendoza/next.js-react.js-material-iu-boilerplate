@@ -1,8 +1,8 @@
 export default {
     openGraph: {
       type: 'website',
-      locale: 'en_IE',
-      url: 'https://www.url.ie/',
+      locale: 'en',
+      url: 'https://www.url.BO/',
       site_name: 'mi sitios',
     },
     twitter: {

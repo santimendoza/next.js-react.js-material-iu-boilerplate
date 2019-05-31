@@ -1,9 +1,13 @@
 {
   "name": "khychi",
-  "version": ".0.0",
-  "license" : "MIT",
-  "keywords": ["react.js", "next.js", "django"],
-  "author": "FRancisco Ochoa Gonzales",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": [
+    "react.js",
+    "next.js",
+    "django"
+  ],
+  "author": "Francisco Ochoa Gonzales",
   "bugs": {
     "url": "https://github.com/linuxe41/blog/issues"
   },

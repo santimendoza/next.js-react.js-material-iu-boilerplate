@@ -5,7 +5,7 @@
 Download the example [or clone the repo](https://github.com/linuxer41/next.js-react.js-material-iu-boilerplate.git):
 
 ```sh
-curl https://github.com/linuxer41/next.js-react.js-material-iu-boilerplate.git nextapp
+git clone https://github.com/linuxer41/next.js-react.js-material-iu-boilerplate.git nextapp
 cd nextapp
 ```
 

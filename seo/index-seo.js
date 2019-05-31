@@ -1,9 +1,9 @@
 
 export default {
   openGraph: {
-    title: 'Open Graph Article Title',
+    title: 'next.js boilerplate',
     description: 'Description of open graph article',
-    url: 'https://www.example.com/articles/article-title',
+    url: '',
     type: 'article',
     article: {
       publishedTime: '2017-06-21T23:04:13Z',
@@ -11,19 +11,19 @@ export default {
       expirationTime: '2022-12-21T22:04:11Z',
       section: 'Section II',
       authors: [
-        'https://www.example.com/authors/@firstnameA-lastnameA',
-        'https://www.example.com/authors/@firstnameB-lastnameB',
+        '',
+        '',
       ],
       tags: ['Tag A', 'Tag B', 'Tag C'],
     },
     images: [
       {
-        url: 'https://www.test.ie/images/cover.jpg',
+        url: 'https://url.com/cover.jpg',
         width: 850,
         height: 650,
         alt: 'Photo of text',
       },
     ],
   },
-  title: 'intes'
+  title: 'next.js boilerplate'
 };

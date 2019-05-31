@@ -6,7 +6,7 @@ import CssBaseline from '@material-ui/core/CssBaseline';
 import theme from '../src/theme';
 
 // import your default seo configuration
-import SEO from '../next-seo.config';
+import SEO from '../seo/next-seo.config';
 
 export default class MyApp extends App {
   static async getInitialProps({ Component, ctx }) {
